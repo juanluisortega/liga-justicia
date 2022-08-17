@@ -5,3 +5,4 @@
 - Aquaman
 - Linterna Verde
 - Volcán Negro
+- Juan Luis

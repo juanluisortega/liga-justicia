@@ -4,5 +4,4 @@
 - Batman
 - Aquaman
 - Linterna Verde
-- Robin
 - Volcán Negro
